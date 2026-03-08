@@ -1,0 +1,19 @@
+# Python environment
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Data and large files (The most important part for you)
+*.csv
+*.json
+*.xlsx
+*.pkl
+*.zip
+
+# OS generated files
+.DS_Store
+Thumbs.db
