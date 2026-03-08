@@ -8,7 +8,6 @@ venv/
 .ipynb_checkpoints
 
 # Data and large files (The most important part for you)
-*.csv
 *.json
 *.xlsx
 *.pkl
